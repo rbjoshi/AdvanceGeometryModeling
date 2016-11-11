@@ -1,4 +1,4 @@
-# AdvanceGeometryModeling
+# AdvanceGeometricModeling
 It covers different types of geometry modeling tutorials in mathematica<br/><br/>
 
 This tutorials covers some of the basic and advance topics of Geometry Modeling<br/><br/>
